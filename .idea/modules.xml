@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/guicey-web-test-sample.iml" filepath="$PROJECT_DIR$/guicey-web-test-sample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/interactions/interactions.iml" filepath="$PROJECT_DIR$/interactions/interactions.iml" />
-      <module fileurl="file://$PROJECT_DIR$/verification/verification.iml" filepath="$PROJECT_DIR$/verification/verification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-app-interactions/web-app-interactions.iml" filepath="$PROJECT_DIR$/web-app-interactions/web-app-interactions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-app-verification/web-app-verification.iml" filepath="$PROJECT_DIR$/web-app-verification/web-app-verification.iml" />
     </modules>
   </component>
 </project>
