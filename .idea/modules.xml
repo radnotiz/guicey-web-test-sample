@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/guicey-web-test-sample.iml" filepath="$PROJECT_DIR$/guicey-web-test-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interactions/interactions.iml" filepath="$PROJECT_DIR$/interactions/interactions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/verification/verification.iml" filepath="$PROJECT_DIR$/verification/verification.iml" />
+    </modules>
+  </component>
+</project>
+
