@@ -1,2 +1,6 @@
 group = 'org.codetaster.guicey-web-test-sample'
 version = '1.0-SNAPSHOT'
+
+dependencies {
+    compile 'org.seleniumhq.selenium:selenium-java:2.32.0'
+}
