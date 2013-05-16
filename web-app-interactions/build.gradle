@@ -3,4 +3,5 @@ version = '1.0-SNAPSHOT'
 
 dependencies {
     compile 'org.seleniumhq.selenium:selenium-java:2.32.0'
+    compile 'org.testng:testng:6.8'
 }
